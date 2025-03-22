@@ -1,0 +1,17 @@
+.taskButton{
+    background-repeat: no-repeat;
+    border:none;
+    width:25px;
+    height:21px;
+    background-size:contain;
+    position: absolute;
+}
+
+.addButton{
+    background-color: rgba(0, 255, 34, 0.836);
+    background-image: url("../img/add.png");
+}
+
+.removeButton{
+    background-image: url("../img/delete.png");
+}
